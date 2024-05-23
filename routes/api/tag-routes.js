@@ -76,6 +76,7 @@ router.put('/:id', async (req, res) => {
 });
 
 // DELETE route to delete a tag by its `id`
+//Delete route works correctly 
 router.delete('/:id', async (req, res) => {
   try {
     const result = await Tag.destroy({
