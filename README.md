@@ -30,10 +30,7 @@ To ensure that you are using the correct file paths as your URL links in Insomni
 
 ## Video of Working Back-End Functionality
 
-<video width="600" controls>
-  <source src="img/E-Commerce-Assign.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Heres a link](img/E-Commerce-Assign.mp4) to the video walk thorough demonstrating the functionality of this project.
 
 ## License
 This project is licensed under MIT's permissive software license.
@@ -43,3 +40,5 @@ This project wouldnt have been possible without the help and guidence from my pr
 
 ## Questions
 If you have any questions about the repo, contact me directly at Trevor9J@Protonmail.com. If you want to see more of my work, please visit my [GitHub](https://github.com/trevorsdev). To visit this specific project repository on my GitHub, please visit this [link.](https://github.com/trevorsdev/E-Commerce)
+
+
