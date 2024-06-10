@@ -17,15 +17,13 @@ There are no steps required to install this project. However, to utilize its fun
 
 ## App Usage
 To use this project, have an API client such as Insomnia installed on your computer. Launch your API client, then open the E-Commerce project in VS code, on your personal device. Open the integrated terminal in the server.js file and input "npm run start" into the terminal. Open Insomnia, and create a new collection with a name of your choosing, for ex: "E-Commerce". Inside that folder, add three other folders called "Tag", "Product", and "Category", these folders will have files inside used to test CRUD routes related to each of the three api routes, "tag-routes", "product-routes", and "category-routes". The end "product" inside of your Insomnia should look like this:
-<div style="width:300px; height:500px;">
-  <img src="img/Insomnia_folders.png" alt="Routing for the Tags, Products and Categories" style="width:100%; height:100%;" />
-</div>
+
+<img src="img/Insomnia_folders.png" alt="Routing for the Tags, Products and Categories" width="300" height="500">
 <br>
 
 To ensure that you are using the correct file paths as your URL links in Insomnia, refer to the "index.js" file located in the "routes" -> "api" folders. View the pictures highligthed file paths below to use in your own URL paths.
-<div style="width:800px; height:550px;">
-  <img src="img/URL_routes.png" alt="index.js file showing which URL paths to use within URL in Insomnia" style="width:100%; height:100%;" />
-</div>
+
+<img src="img/URL_routes.png" alt="index.js file showing which URL paths to use within URL in Insomnia" width="400px" height="275px">
 <br>
 
 ## Video of Working Back-End Functionality
